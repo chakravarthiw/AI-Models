@@ -1,8 +1,9 @@
 # 🧠 AI Models Portfolio – Chakravarthi Waghulabaranan
 
+
 Welcome to my AI project showcase! This repository contains hands-on machine learning and AI projects I’ve completed using Python, AWS, and various open-source tools.
 
-I’m currently completing a Master’s in Data Science at RMIT University and passionate about real-world AI problem solving — from reinforcement learning to generative agents.
+I hold a Master’s in Data Science from RMIT University and am passionate about real-world AI problem solving — from reinforcement learning to generative agents.
 
 ---
 
@@ -18,7 +19,7 @@ I’m currently completing a Master’s in Data Science at RMIT University and p
 ### 🔹 [Intermediary Routing Logic](https://github.com/chakravarthiw/AI-Models/blob/main/QLearningImprovement-IntermediaryLocation.py)
 > Added intermediary destination logic to Q-learning agents for more advanced routing simulations.
 
-### 🔹 Built an AI agent using Amazon Bedrock + Lambda to compute daily revenue based on user input in natural language.
+### 🔹  Built an AI agent using Amazon Bedrock + Lambda to compute daily revenue based on user input in natural language.
 
 
 ---
@@ -33,7 +34,7 @@ I’m currently completing a Master’s in Data Science at RMIT University and p
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 Master of Data Science @ RMIT University  
+- 🎓 Master of Data Science @ RMIT University (Completed July 2024)  
 - 💼 Former Software Engineer & Account Manager @ Intellicar (TVS Motor Group)  
 - 🎉 Volunteer & Workforce experience with FIFA Women's World Cup and Australian Open
 
