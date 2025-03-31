@@ -46,11 +46,4 @@ While my core skillset is in data and AI, I've also contributed to high-profile 
 
 ---
 
-## 📬 Contact
-
-- 📧 [waghul@yahoo.com](mailto:waghul@yahoo.com)  
-- 💻 [GitHub](https://github.com/chakravarthiw)
-
----
-
 > ⭐ If you find my work interesting, feel free to star or fork this repo!
