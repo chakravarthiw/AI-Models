@@ -1,4 +1,4 @@
-# 🧠 AI Models Portfolio – Chakravarthi Waghulabarana
+# 🧠 AI Models Portfolio – Chakravarthi Waghulabaranan
 
 Welcome to my AI project showcase! This repository contains hands-on machine learning and AI projects I’ve completed using Python, AWS, and various open-source tools.
 
@@ -18,8 +18,8 @@ I’m currently completing a Master’s in Data Science at RMIT University and p
 ### 🔹 [Intermediary Routing Logic](https://github.com/chakravarthiw/AI-Models/blob/main/QLearningImprovement-IntermediaryLocation.py)
 > Added intermediary destination logic to Q-learning agents for more advanced routing simulations.
 
-### 🔹 [Business Revenue AI Agent](https://www.youtube.com/watch?v=Kqk42ZYMgmk)
-> Built an AI agent using Amazon Bedrock + Lambda to compute daily revenue based on user input in natural language.
+### 🔹 Built an AI agent using Amazon Bedrock + Lambda to compute daily revenue based on user input in natural language.
+
 
 ---
 
@@ -35,8 +35,13 @@ I’m currently completing a Master’s in Data Science at RMIT University and p
 
 - 👨‍🎓 Master of Data Science @ RMIT University  
 - 💼 Former Software Engineer & Account Manager @ Intellicar (TVS Motor Group)  
-- 🎉 Volunteer & Workforce experience with FIFA Women's World Cup and Australian Open  
-- 🔗 Portfolio: [chakravarthi.vercel.app](https://chakravarthi.vercel.app)
+- 🎉 Volunteer & Workforce experience with FIFA Women's World Cup and Australian Open
+
+---
+
+## 🎯 Event Experience
+
+While my core skillset is in data and AI, I've also contributed to high-profile events like the FIFA Women's World Cup, Australian Open, Formula 1, and MotoGP in roles focused on **operations, logistics, and workforce coordination**. These experiences strengthened my ability to work under pressure, communicate clearly with diverse teams, and manage tech-enabled environments behind the scenes — all of which complement my data-driven career path.
 
 ---
 
